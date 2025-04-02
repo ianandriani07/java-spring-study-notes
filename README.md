@@ -1,7 +1,7 @@
 # 📘 Caderno de Estudos: Java & Spring
 
 Anotações, exemplos e explicações sobre Java e Spring, feitas durante minha jornada de aprendizado e prática.  
-> ⚠️ Em constante construção. Não espere perfeição, mas espere esforço. 😄
+> ⚠️ Em constante construção.
 
 ---
 
